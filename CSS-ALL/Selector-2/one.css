@@ -1,0 +1,12 @@
+a{
+    background-color: red;
+}
+/* .nvd{
+    background-color: yellow;
+} */
+a[target]{
+    background-color: yellow;
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
